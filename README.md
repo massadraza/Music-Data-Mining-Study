@@ -73,4 +73,4 @@ devtools::install_github("janish-parikh/ZTest")
 
 ## Author
 
-mr2207
+Massad Raza
